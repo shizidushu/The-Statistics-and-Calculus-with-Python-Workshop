@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shizidushu/The-Statistics-and-Calculus-with-Python-Workshop/HEAD)
+
 # The Statistics and Calculus with Python Workshop
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Statistics-and-Calculus-with-Python-Workshop/network)
